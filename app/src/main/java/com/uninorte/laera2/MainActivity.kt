@@ -13,7 +13,7 @@ class MainActivity : Activity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val entrar = findViewById<Button>(R.id.login_btn)
+        val entrar = findViewById<Button>(R.id.bt_entrar)
         entrar.setOnClickListener() {
             val intent = Intent(this, SecondActivity::class.java)
             startActivity(intent)

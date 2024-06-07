@@ -86,15 +86,6 @@
         android:focusable="true"
         />
 
-    <Button
-        android:id="@+id/button_teste"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Crie uma conta clicando aqui"
-        android:textSize="20sp"
-        tools:layout_editor_absoluteX="75dp"
-        tools:layout_editor_absoluteY="662dp" />
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 </androidx.core.widget.NestedScrollView>

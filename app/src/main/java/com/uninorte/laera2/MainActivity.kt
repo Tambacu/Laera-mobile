@@ -19,5 +19,10 @@ class MainActivity : Activity() {
             val intent = Intent(this, SecondActivity::class.java)
             startActivity(intent)
         }
+        val cadastro = findViewById<TextView>(R.id.text_telacadastro)
+        cadastro.setOnClickListener() {
+            val intent = Intent(this, Tela_Cadastro::class.java)
+            startActivity(intent)
+        }
     }
 }

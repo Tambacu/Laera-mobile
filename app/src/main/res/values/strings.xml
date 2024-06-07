@@ -3,4 +3,6 @@
     <string name="entrar">Entrar</string>
     <string name="text_cadastro">Crie uma conta clicando aqui</string>
     <string name="text_cadastrese">Cadastre-se</string>
+    <string name="text_cadastrarse">Cadastrar-se</string>
+    <string name="underlined_text"><u>Curso Python Guanabara</u></string>
 </resources>

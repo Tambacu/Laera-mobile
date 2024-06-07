@@ -30,4 +30,8 @@
         <item name="textAllCaps">false</item>
         <item name="android:background">@drawable/button</item>
     </style>
+    <style name="videos">
+
+
+    </style>
 </resources>

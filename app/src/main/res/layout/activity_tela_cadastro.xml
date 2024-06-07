@@ -40,7 +40,7 @@
     <EditText
         android:id="@+id/edit_nome"
         style="@style/Edit_Text"
-        android:hint="Nome"
+        android:hint="Email"
         android:drawableRight="@drawable/ic_name_24"
         android:inputType="textEmailAddress"
         app:layout_constraintStart_toStartOf="@+id/containercoponents"

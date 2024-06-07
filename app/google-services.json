@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50094514127",
+    "project_id": "laera-7c733",
+    "storage_bucket": "laera-7c733.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50094514127:android:a6e7869b6b9e1f9c273cba",
+        "android_client_info": {
+          "package_name": "com.uninorte.laera2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgmzhrn9qiZ7LICQcJTKtGd7fUp0L58AY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

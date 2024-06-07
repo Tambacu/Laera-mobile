@@ -11,15 +11,15 @@ class SecondActivity : Activity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_second)
 
-        /*val curso1 = findViewById<ImageButton>(R.id.imageButton_python)
+        val curso1 = findViewById<ImageButton>(R.id.imageButton_python)
         curso1.setOnClickListener() {
             val intent = Intent(Intent.ACTION_VIEW, Uri.parse("https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6"))
             intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
             intent.putExtra("force_fullscreen", true)
-            startActivity(intent)*/
+            startActivity(intent)
 
 
         }
     }
 
-//}
+}

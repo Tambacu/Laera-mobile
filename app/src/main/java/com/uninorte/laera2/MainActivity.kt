@@ -12,6 +12,7 @@ class MainActivity : Activity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        actionBar?.hide()
 
         val entrar = findViewById<Button>(R.id.bt_entrar)
         entrar.setOnClickListener() {
